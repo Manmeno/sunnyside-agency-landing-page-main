@@ -12,7 +12,7 @@
   color: #fff;
 }
 .section {
-  background-image: url("/images/image-header.jpg");
+  background-image: url("images/image-header.jpg");
   height: 600px;
   width: auto;
 }
@@ -108,17 +108,17 @@
   border-color: hsl(7, 99%, 70%);
 }
 .div-image {
-  background-image: url("/images/image-transform.jpg");
+  background-image: url("images/image-transform.jpg");
   width: 640px;
 }
 .div-image2 {
-  background-image: url("/images/image-stand-out.jpg");
+  background-image: url("images/image-stand-out.jpg");
 }
 .div-image3 {
-  background-image: url("/images/image-graphic-design.jpg");
+  background-image: url("images/image-graphic-design.jpg");
 }
 .div-image4 {
-  background-image: url("/images/image-photography.jpg");
+  background-image: url("images/image-photography.jpg");
 }
 .cards {
   display: flex;
